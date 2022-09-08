@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "tipo": "Anillo",
+        "nombre": "Anillo Animal",
+        "precio": 3305,
+        "foto": "../media/products/anillo-animal.jpg"
+    },
+    {
+        "id": 2,
+        "tipo": "Anillo",
+        "nombre": "Anillo Infinito Abierto",
+        "precio": 1400,
+        "foto": "../media/products/anillo-infinito-abierto.jpg"
+    },
+    {
+        "id": 3,
+        "tipo": "Anillo",
+        "nombre": "Anillo mini Arrow",
+        "precio": 1400,
+        "foto": "../media/products/anillo-mini-arrow.jpg"
+    },
+    {
+        "id": 4,
+        "tipo": "Anillo",
+        "nombre": "Anillo Nicole",
+        "precio": 1400,
+        "foto": "../media/products/anillo-nicole.jpg"
+    },
+    {
+        "id": 5,
+        "tipo": "Anillo",
+        "nombre": "Anillo North",
+        "precio": 1400,
+        "foto": "../media/products/anillo-north.jpg"
+    },
+    {
+        "id": 6,
+        "tipo": "Aros",
+        "nombre": "Aro Aguja 'Emmi' unidad",
+        "precio": 1500,
+        "foto": "../media/products/reme self love.jpg"
+    },
+    {
+        "id": 7,
+        "tipo": "Aros",
+        "nombre": "Aro colgante Brooklyn",
+        "precio": 2200,
+        "foto": "../media/products/aro-colgante-brooklyn-unidad.jpg"
+    },
+    {
+        "id": 8,
+        "tipo": "Cuff",
+        "nombre": "Cuff libia unidad",
+        "precio": 1800,
+        "foto": "../media/products/cuff-libia-unidad.jpg"
+    },
+    {
+        "id": 9,
+        "tipo": "Aro",
+        "nombre": "Mini lunita cubic",
+        "precio": 1700,
+        "foto": "../media/products/mini-lunita-cubic-unidad.jpg"
+    },
+    {
+        "id": 10,
+        "tipo": "Aro",
+        "nombre": "Mini lunita Senna",
+        "precio": 4750,
+        "foto": "../media/products/mini-lunita-senna-unidad.jpg"
+    },
+    {
+        "id": 11,
+        "tipo": "Pulsera",
+        "nombre": "Pulsera ajustable",
+        "precio": 4300,
+        "foto": "../media/products/pulsera-ajustable-alma.jpg"
+    },
+    {
+        "id": 12,
+        "tipo": "Pulsera",
+        "nombre": "Pulsera Ojito black",
+        "precio": 3800,
+        "foto": "../media/products/pulsera-ojito-black-white.jpg"
+    },
+    {
+        "id": 13,
+        "tipo": "Pulsera",
+        "nombre": "Pulsera triple",
+        "precio": 3800,
+        "foto": "../media/products/pulsera-triple-cubic-trini-largo-18-5cm-se-puede-regular.jpg"
+    }
+]
